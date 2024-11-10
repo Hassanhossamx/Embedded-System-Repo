@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726416807 source:f:\pr2\code blocks\add two distance\main.c
+	<stdio.h>
+	<stdlib.h>
+
